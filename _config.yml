@@ -11,7 +11,7 @@
 carpentry: "dc"
 
 # Overall title for pages.
-title: "Create Your Own AWS Instance"
+title: "Metagenomcis"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -91,4 +91,4 @@ exclude:
 highlighter: rouge
 
 # Remote theme
-remote_theme: Cloud-SPAN/create-aws-instance-theme
+remote_theme: Cloud-SPAN/metagenomics-theme
