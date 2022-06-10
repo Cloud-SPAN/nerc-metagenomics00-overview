@@ -5,8 +5,10 @@
 This course teaches
 
 > ## Getting Started
->
-> The course assumes
+>This course assumes that learners have no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of microbiome. Participants should bring their own laptops and plan to participate actively.
+To get started, follow the directions in the Setup tab to get access to the required software and data for this workshop.
+
+
 >
 {: .prereq}
 
