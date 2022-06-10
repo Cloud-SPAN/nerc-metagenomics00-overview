@@ -10,6 +10,10 @@ To get started, follow the directions in the Setup tab to get access to the requ
 >
 {: .prereq}
 
+> ## Data
+> This course uses data from the mock metagenome community published here https://academic.oup.com/gigascience/article/8/5/giz043/5486468 which has long and short read sequencing data and has been used for benchmarking metagenome tools.
+{: .prereq}
+
 ## Background
 ## Metagenomics
 Metagenomes are collections of genomic
