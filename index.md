@@ -2,7 +2,7 @@
 ---
 [Cloud-SPAN](https://cloud-span.york.ac.uk) is a project run by the Department of Biology at the University of York with the aim to training researchers in the experimental design and analysis of 'omics data using cloud-based High Performance Computing (HPC) resources.
 
-This course teaches
+This course teaches metagenomics, how to generate and QC an assembly. How to bin the assembly into bins, known as metagenome assembled genomes (MAGs), and how to identify the taxonomy of these bins. We will also cover how to look at diversity metrics and how to add functional annotation to identify the products of genes identified in the assembled MAGs. 
 
 > ## Getting Started
 >This course assumes that learners have no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of microbiome. Participants should bring their own laptops and plan to participate actively.
