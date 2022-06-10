@@ -6,7 +6,7 @@ This course teaches
 
 > ## Getting Started
 >
-> The course assumes 
+> The course assumes
 >
 {: .prereq}
 
@@ -17,8 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 | Lesson                     | Overview |
 | -------------------------- | ---------|
-| [QC Assembly](https://cloud-span.github.io/metagenomics01-qc-assembly/) | Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.|
-| [Binning](https://cloud-span.github.io/metagenomics02-binning/)| Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. |
-| [Taxonomic Annotations](https://cloud-span.github.io/metagenomics03-taxonomic-anno/) | Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. |
-| [Functional Annotations](https://cloud-span.github.io/metagenomics04-functional-anno/) | Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. |
-
+| [QC Assembly](https://cloud-span.github.io/metagenomics01-qc-assembly/) | How to quality control and assemble a genome.|
+| [Binning](https://cloud-span.github.io/metagenomics02-binning/)| How to seperate an assembly into MAGs. |
+| [Taxonomic Annotations](https://cloud-span.github.io/metagenomics03-taxonomic-anno/) | How to add taxonomic annotations onto contigs in an assembly. |
+| [Functional Annotations](https://cloud-span.github.io/metagenomics04-functional-anno/) | How to add functional annotation to your assembly. |
