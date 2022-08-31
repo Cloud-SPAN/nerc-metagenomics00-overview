@@ -19,7 +19,7 @@ To get started, follow the directions in the Setup tab to get access to the requ
 
 | Lesson                     | Overview |
 | -------------------------- | ---------|
-| [QC Assembly](https://cloud-span.github.io/metagenomics01-qc-assembly/) | How to quality control and assemble a genome.|
+| [QC & Assembly](https://cloud-span.github.io/metagenomics01-qc-assembly/) | How to quality control and assemble a genome.|
 | [Binning](https://cloud-span.github.io/metagenomics02-binning/)| How to seperate an assembly into MAGs. |
 | [Taxonomic Annotations](https://cloud-span.github.io/metagenomics03-taxonomic-anno/) | How to add taxonomic annotations onto contigs in an assembly. |
 | [Functional Annotations](https://cloud-span.github.io/metagenomics04-functional-anno/) | How to add functional annotation to your assembly. |
