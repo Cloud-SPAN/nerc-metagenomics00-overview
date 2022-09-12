@@ -1,11 +1,15 @@
 ---
 ---
-[Cloud-SPAN](https://cloud-span.york.ac.uk) is a project run by the Department of Biology at the University of York with the aim to training researchers in the experimental design and analysis of 'omics data using cloud-based High Performance Computing (HPC) resources.
+[Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
 
-This course teaches metagenomics, how to generate and QC an assembly. How to bin the assembly into bins, known as metagenome assembled genomes (MAGs), and how to identify the taxonomy of these bins. We will also cover how to look at diversity metrics and how to add functional annotation to identify the products of genes identified in the assembled MAGs.
+This course teaches data analysis for metagenomics projects. It covers how to:
+- generate and QC a metagenome assembly
+- 'bin' the assembly into metagenome assembled genomes (MAGs) also known as bins
+- identify the taxonomy of these MAGs. 
+- calculate diversity metrics and add functional annotation to identify the products of genes identified in the assembled MAGs.
 
 > ## Prerequisites
-This course assumes that learners have no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of microbiome. Participants should bring their own laptops and plan to participate actively.
+This course assumes no prior experience with the tools covered in the workshop but learners are expected to have some familiarity with biological concepts, including the concept of microbiome. Participants should bring their own laptops and plan to participate actively.
 To get started, follow the directions in the Setup tab to get access to the required software and data for this workshop.
 >
 {: .prereq}
