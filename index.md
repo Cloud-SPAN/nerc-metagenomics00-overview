@@ -18,6 +18,9 @@ To get started, follow the directions in the Setup tab to get access to the requ
 > This course uses data from a mock metagenome community published from [Ultra-deep, long-read nanopore sequencing of mock microbial community standards](https://academic.oup.com/gigascience/article/8/5/giz043/5486468) which has long and short read sequencing data and has been used for benchmarking metagenome tools.
 {: .prereq}
 
+# Course format
+
+This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All the software and data used in the workshop are hosted on an Amazon Machine Image (AMI). CloudSPAN will give details as to how to access these images. Unlike our [genomics course](https://cloud-span.github.io/00genomics/) which is available as a self study option with a guide on [how to create your own instance](https://cloud-span.github.io/create-aws-instance-0-overview/), the resources required to run this course on your own instance are much greater and will not be available on a free tier basis. We will be running this course more than once and if you would like to wait until the next course is available to use our own AMIs, then please check our website for [course date updates](https://cloud-span.york.ac.uk/).
 
 # Course Overview
 
