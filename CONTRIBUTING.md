@@ -1,10 +1,10 @@
 # Cloud-SPAN Contribution Guide
-Hi there! Are you interested in contributing content to the Cloud-SPAN project? 
+Hi there! Are you interested in contributing content to the Cloud-SPAN project?
 
 You're in the right place!
 
 ## Joining the Community
-We welcome all contributions, big or small, and we'd love to welcome you into our community. 
+We welcome all contributions, big or small, and we'd love to welcome you into our community.
 We are open to people of all backgrounds with an interest in 'omics and/or cloud computing.
 
 Please be aware of our [Code of Conduct]("https://github.com/Cloud-SPAN/CloudSPAN-handbook-bookdown/blob/master/CODE_OF_CONDUCT.md") which must be respected at all times during Cloud-SPAN events, courses and online interactions.
@@ -20,9 +20,9 @@ If you're thinking of making a contribution, it will be useful for you to unders
 - Episodes are stored as markdown files inside the relevant lesson repository under a folder named **"_episodes"**.
     - These episodes are numbered conventionally such that episode-01 corresponds to the first episode of that lesson, episode-02 to the second and so on.
 
-## Contributing via GitHub 
+## Contributing via GitHub
 
-[Git](https://git-scm.com) is a really useful tool for version control. 
+[Git](https://git-scm.com) is a really useful tool for version control.
 [GitHub](https://github.com) sits on top of Git and supports collaborative and distributed working.
 
 We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but our maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
@@ -43,12 +43,12 @@ Also, when writing in Markdown please start each new sentence on a new line.
 Having each sentence on a new line will make no difference to how the text is displayed- there will still be paragraphs- but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
 ## Share your thoughts
-Whether you have something to contribute, a question to ask or a suggestion to make, the first thing you should do is open an issue. 
+Whether you have something to contribute, a question to ask or a suggestion to make, the first thing you should do is open an issue.
 This keeps us up to date with any changes you're thinking about and helps prevent unnecessary conflict between versions.
 
-Please try and open your issue in the repository associated with the lesson or episode you want to contribute to. 
+Please try and open your issue in the repository associated with the lesson or episode you want to contribute to.
 (You are currently in **genomics01-intro**).
-If your issue spans several lessons, or is more general, then just use your judgement. 
+If your issue spans several lessons, or is more general, then just use your judgement.
 Our maintainers will sort you out if you get it wrong!
 
 You should also check existing open issues to make sure you're not duplicating someone else's work.
