@@ -29,6 +29,6 @@ The course will take part over 4 weeks and will be done largely as a self study 
 | Lesson                     | Overview |
 | -------------------------- | ---------|
 | [QC & Assembly](https://cloud-span.github.io/metagenomics01-qc-assembly/) | How to quality control and assemble a genome.|
-| [Polishing](https://cloud-span.github.io/metagenomics02-polishing/) | How to add functional annotation to your assembly. |
+| [Polishing](https://cloud-span.github.io/metagenomics02-polishing/) | How to use short reads to polish your metagenome assembly |
 | [Taxonomic Annotations](https://cloud-span.github.io/metagenomics03-taxonomic-anno/) | How to add taxonomic annotations onto contigs in an assembly. |
-| [Binning & Functional annotation](https://cloud-span.github.io/metagenomics04-binning_funa/)| How to seperate an assembly into MAGs. |
+| [Binning & Functional annotation](https://cloud-span.github.io/metagenomics04-binning_funa/)| How to seperate an assembly into MAGs and add functional annotation to your assembly. |
