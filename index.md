@@ -1,6 +1,30 @@
 ---
+bioschemas:
+  "@context": "https://schema.org"
+  "@type": "LearningResource"
+  "@id": "https://cloud-span.github.io/metagenomics00-overview/"
+  "http://purl.org/dc/terms/conformsTo":
+  - "@type": CreativeWork
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+  about:
+  - "@id": "http://edamontology.org/topic_3174"
+  - "@id": "http://edamontology.org/topic_3372"
+  - "@id": "http://edamontology.org/topic_0769"
+  - "@id": "http://edamontology.org/topic_3365"
+  abstract: "This course teaches data analysis for metagenomics projects. It covers how to (1) generate and QC a metagenome assembly, (2)' bin’ the assembly into metagenome assembled genomes (MAGs) (also known as bins), (2)identify the taxonomy of these MAGs, and (4) calculate diversity metrics and add functional annotation to identify the products of genes identified in the assembled MAGs."
+  author: ["Emma Rand", "Sarah Forrester", "Annabel Cansdale", "Jorge Buenabad-Chavez", "Evelyn Greeves"]
+  contributor: ["James Chong", "Emma Barnes", "University of York", "Software Sustainability Institute"]
+  educationalLevel: "Intermediate"
+  identifier: ""
+  name: "Cloud-SPAN Genomics Course"
+  url: "https://cloud-span.github.io/metagenomics00-overview"
+  inLanguage: "en"
+  keywords: "metagenomics, assembly, polishing, taxonomic annotation, binning, functional annotation, shell, command line tools, cloud computing, AWS, HPC, data analysis"
+  license: CC-BY 4.0
+  timeRequired: "PT12H"
+  mentions: ["Git for Windows", "Cloud-SPAN Genomics course", "Data Carpentries Genomics workshop"]
 ---
-[Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
+[Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI Innovation Scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
 
 This course teaches data analysis for metagenomics projects. It covers how to:
 - generate and QC a metagenome assembly
