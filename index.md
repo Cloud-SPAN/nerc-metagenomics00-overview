@@ -15,7 +15,7 @@ bioschemas:
   author: ["Emma Rand", "Sarah Forrester", "Annabel Cansdale", "Jorge Buenabad-Chavez", "Evelyn Greeves"]
   contributor: ["James Chong", "Emma Barnes", "University of York", "Software Sustainability Institute"]
   educationalLevel: "Intermediate"
-  identifier: ""
+  identifier: "10.5281/zenodo.7505859"
   name: "Cloud-SPAN Genomics Course"
   url: "https://cloud-span.github.io/metagenomics00-overview"
   inLanguage: "en"
