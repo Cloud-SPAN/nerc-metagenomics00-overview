@@ -52,7 +52,10 @@ The course will take part over 4 weeks and will be done largely as a self study 
 
 | Lesson                     | Overview |
 | -------------------------- | ---------|
-| [QC & Assembly](https://cloud-span.github.io/metagenomics01-qc-assembly/) | How to quality control and assemble a genome.|
-| [Polishing](https://cloud-span.github.io/metagenomics02-polishing/) | How to use short reads to polish your metagenome assembly |
-| [Taxonomic Annotations](https://cloud-span.github.io/metagenomics03-taxonomic-anno/) | How to add taxonomic annotations onto contigs in an assembly. |
-| [Binning & Functional annotation](https://cloud-span.github.io/metagenomics04-binning_funa/)| How to seperate an assembly into MAGs and add functional annotation to these MAGs. |
+| [Files and Directories](https://cloud-span.github.io/nerc-metagenomics01-file-directories/) |Learn about files and directories, log onto a cloud instance and get a basic introduction to the shell.|
+| [Using the Command Line](https://cloud-span.github.io/nerc-metagenomics02-command-line/)  |Learn more about using the shell to navigate directories, manipulate and search files and use basic loops to iterate commands.|
+| [QC & Assembly](https://cloud-span.github.io/nerc-metagenomics03-qc-assembly/) | How to quality control and assemble a genome.|
+| [Polishing](https://cloud-span.github.io/nerc-metagenomics04-polishing/) | How to use short reads to polish your metagenome assembly |
+| [Binning & Functional Annotation](https://cloud-span.github.io/nerc-metagenomics05-binning/)| How to seperate an assembly into MAGs and add functional annotation to these MAGs. |
+| [Taxonomic Annotations](https://cloud-span.github.io/nerc-metagenomics06-taxonomic-anno/) | How to add taxonomic annotations onto contigs in an assembly. |
+
