@@ -14,7 +14,7 @@ The paper characterises microbial communities across 43 mountain tundra sites in
 Environmental information such as elevation, soil moisture and N2O fluxes was gathered for each site. DNA from each site was extracted and sequenced using Illumina technology, giving "short reads". Two sites were additionally sequenced using a Nanopore MinION, giving "long reads". In this course we will focus on these two sites as they have both long and short read data available.
 
 ## The sites
-![Graphic comparison of the two sites as described below](/fig/sample_sites_comparison-03.png)
+![Graphic comparison of the two sites as described below](fig/sample_sites_comparison-03.png)
 
 The main site we will be looking at is site **m11216**, a heathland site with elevation 812.7 metres above sea level. We have two samples for this site: a short-read sample called *ERR4998593* and a long-read sample called *ERR5000342*. These are the samples we will be working with most and using in our metagenomics analysis workflow.
 
