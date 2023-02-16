@@ -1,52 +1,43 @@
 ---
-bioschemas:
-  "@context": "https://schema.org"
-  "@type": "LearningResource"
-  "@id": "https://cloud-span.github.io/metagenomics00-overview/"
-  "http://purl.org/dc/terms/conformsTo":
-  - "@type": CreativeWork
-    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
-  about:
-  - "@id": "http://edamontology.org/topic_3174"
-  - "@id": "http://edamontology.org/topic_3372"
-  - "@id": "http://edamontology.org/topic_0769"
-  - "@id": "http://edamontology.org/topic_3365"
-  abstract: "This course teaches data analysis for metagenomics projects. It covers how to (1) generate and QC a metagenome assembly, (2)' bin’ the assembly into metagenome assembled genomes (MAGs) (also known as bins), (2)identify the taxonomy of these MAGs, and (4) calculate diversity metrics and add functional annotation to identify the products of genes identified in the assembled MAGs."
-  author: ["Emma Rand", "Sarah Forrester", "Annabel Cansdale", "Jorge Buenabad-Chavez", "Evelyn Greeves"]
-  contributor: ["James Chong", "Emma Barnes", "University of York", "Software Sustainability Institute"]
-  educationalLevel: "Intermediate"
-  identifier: "10.5281/zenodo.7505859"
-  name: "Cloud-SPAN Genomics Course"
-  url: "https://cloud-span.github.io/metagenomics00-overview"
-  inLanguage: "en"
-  keywords: "metagenomics, assembly, polishing, taxonomic annotation, binning, functional annotation, shell, command line tools, cloud computing, AWS, HPC, data analysis"
-  license: CC-BY 4.0
-  timeRequired: "PT12H"
-  mentions: ["Git for Windows", "Cloud-SPAN Genomics course", "Data Carpentries Genomics workshop"]
+
 ---
 [Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI Innovation Scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
 
-This course teaches data analysis for metagenomics projects. It covers how to:
-- generate and QC a metagenome assembly
-- 'bin' the assembly into metagenome assembled genomes (MAGs) also known as bins
-- identify the taxonomy of these MAGs.
-- calculate diversity metrics and add functional annotation to identify the products of genes identified in the assembled MAGs.
+This "Getting started with High Performance Computing: FAIR training for environmental scientists" course is additionally funded by a NERC Advanced Training: Short Courses award.
+
+This hands-on, online course teaches data analysis for metagenomics projects. It is aimed at environmental scientists with little or no experience of using high performance computing (HPC) for data analysis. In the course we will cover:
+- navigating file directories and using the command line
+- logging into a remote cloud instance
+- using common commands and running analysis programs in the command line
+- what is metagenomics?
+- following a metagenomics analysis workflow including:
+  - performing quality control on reads
+  - assembly of reads into a metagenome
+  - improving your assembly with polishing
+  - binning into species/metagenome-assembled genomes (MAGs)
+  - taxonomic assignment and functional annotation using your binned reads
+
+The course is taught as a mixture of live coding, online lectures, self-study and drop-in sessions.
 
 > ## Prerequisites
-This course assumes no prior experience with the tools covered in the workshop but learners are expected to have some familiarity with biological concepts, including the concept of microbiome. Participants should bring their own laptops and plan to participate actively.
+This course assumes no prior experience with the tools covered in the workshop but learners are expected to have some familiarity with biological concepts, including the concept of genomes and microbiomes. Participants should bring their own laptops and plan to participate actively.
 To get started, follow the directions in the Setup tab to get access to the required software and data for this workshop.
 >
 {: .prereq}
 
 > ## Data
-> This course uses data from a mock metagenome community published from [Ultra-deep, long-read nanopore sequencing of mock microbial community standards](https://academic.oup.com/gigascience/article/8/5/giz043/5486468) which has long and short read sequencing data and has been used for benchmarking metagenome tools.
+> This course uses data from a 2022 paper published in BMC Environmental Microbiome titled [In-depth characterization of denitrifier communities across different soil ecosystems in the tundra](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00424-2). In this course we will compare data from two of the sites studied.
+
+You can read more about the data used in the course [here](_extras\data.md).
 {: .prereq}
 
 # Course format
 
-This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All the software and data used in the workshop are hosted on an Amazon Machine Image (AMI). CloudSPAN will give details as to how to access these images. Unlike our [genomics course](https://cloud-span.github.io/00genomics/) which is available as a self study option with a guide on [how to create your own instance](https://cloud-span.github.io/create-aws-instance-0-overview/), the resources required to run this course on your own instance are much greater and will not be available on a free tier basis. We will be running this course more than once and if you would like to wait until the next course is available to use our own AMIs, then please check our website for [course date updates](https://cloud-span.york.ac.uk/).
+This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All the software and data used in the workshop are hosted on an Amazon Machine Image (AMI). We will give you details as to how to access these instances after registration.
 
-The course will take part over 4 weeks and will be done largely as a self study to take place at your own pace. Each week there will a recorded teaching session covering background required for the lesson. There will also be a drop-in session to offer support and troubleshooting help. The content that we will be covering in the teaching each week will follow the course overview, however support for other sections of the course will be offered as required at the drop-in sessions and over slack. 
+This course is not suitable for self-study (unlike our [Genomics course](https://cloud-span.github.io/00genomics/)) as the resources required exceed those available on a free tier basis. You are however welcome to use the course as reference or as a supplement to other study.
+
+The course will take place over two weeks and will combine live coding and teaching with offline work. We will guide you through the analysis each session but some steps may need to completed offline due to the amount of time they take to complete. There will also be drop-in sessions to offer support and troubleshooting help, and a Slack workspace for questions.
 
 # Course Overview
 
@@ -56,6 +47,6 @@ The course will take part over 4 weeks and will be done largely as a self study 
 | [Using the Command Line](https://cloud-span.github.io/nerc-metagenomics02-command-line/)  |Learn more about using the shell to navigate directories, manipulate and search files and use basic loops to iterate commands.|
 | [QC & Assembly](https://cloud-span.github.io/nerc-metagenomics03-qc-assembly/) | How to quality control and assemble a genome.|
 | [Polishing](https://cloud-span.github.io/nerc-metagenomics04-polishing/) | How to use short reads to polish your metagenome assembly |
-| [Binning & Functional Annotation](https://cloud-span.github.io/nerc-metagenomics05-binning/)| How to seperate an assembly into MAGs and add functional annotation to these MAGs. |
+| [Binning & Functional Annotation](https://cloud-span.github.io/nerc-metagenomics05-binning/)| How to separate an assembly into MAGs and add functional annotation to these MAGs. |
 | [Taxonomic Annotations](https://cloud-span.github.io/nerc-metagenomics06-taxonomic-anno/) | How to add taxonomic annotations onto contigs in an assembly. |
 
