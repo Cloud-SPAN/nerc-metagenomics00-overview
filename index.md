@@ -35,7 +35,7 @@ The course is taught as a mixture of live coding, online lectures, self-study an
 
 This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All the software and data used in the workshop are hosted on an Amazon Machine Image (AMI). We will give you details as to how to access these instances after registration.
 
-This course is available on both a 'taught' and 'self-study' basis. Instances will be available for use by registered participants from 11th - 17th April 2023. 
+This course is available on both a 'taught' and 'self-study' basis. Instances will be available for use by registered participants from 11th - 21st April 2023. 
 
 ### For those registered for a taught course: 
 
