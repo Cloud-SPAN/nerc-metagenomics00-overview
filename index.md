@@ -28,7 +28,7 @@ The course is taught as a mixture of live coding, online lectures, self-study an
 > ## Data
 > This course uses data from a 2022 paper published in BMC Environmental Microbiome titled [In-depth characterization of denitrifier communities across different soil ecosystems in the tundra](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00424-2). In this course we will compare data from two of the sites studied.
 > 
-> You can read more about the data used in the course [here](_extras\data.md).
+> You can read more about the data used in the course [here](data/index.html).
 {: .prereq}
 
 # Course format
