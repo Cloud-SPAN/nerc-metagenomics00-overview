@@ -21,7 +21,7 @@ The course is taught as a mixture of live coding, online lectures, self-study an
 
 > ## Prerequisites
 > This course assumes no prior experience with the tools covered in the workshop but learners are expected to have some familiarity with biological concepts, including the concept of genomes and microbiomes. Participants should bring their own laptops and plan to participate actively.
-> To get started, follow the directions in the Setup tab to get access to the required software and data for this workshop.
+> To get started, follow the directions in the Setup tab to get access to the required software and data for this workshop. **Windows users** need to install Git Bash in their laptop. **Mac users** may need to configure the **terminal** program in their laptop to use the Bash shell.
 >
 {: .prereq}
 
