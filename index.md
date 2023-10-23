@@ -35,15 +35,7 @@ The course is taught as a mixture of live coding, online lectures, self-study an
 
 This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All the software and data used in the workshop are hosted on an Amazon Machine Image (AMI). We will give you details as to how to access these instances after registration.
 
-This course is available on both a 'taught' and 'self-study' basis. Instances will be available for use by registered participants from 11th - 21st April 2023. 
-
-### For those registered for a taught course: 
-
-The course will take place over two weeks and will combine live coding and teaching with offline work. We will guide you through the analysis each session but some steps may need to completed offline due to the amount of time they take to complete. There will also be drop-in sessions to offer support and troubleshooting help, and a Slack workspace for questions.
-
-### For those registered for self-study:
-
-Instances will be available for two weeks and you are free to work through the course content at your own pace. You may still find it useful to use the drop-in sessions and Slack workspace to troubleshoot any problems that arise.
+The course will take place over three weeks and will combine live coding and teaching with offline work. We will guide you through the analysis each session but some steps may need to completed offline due to the amount of time they take to complete. There will also be drop-in sessions to offer support and troubleshooting help, and a Slack workspace for questions.
 
 # Course Overview
 
