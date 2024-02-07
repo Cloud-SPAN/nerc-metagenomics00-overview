@@ -1,12 +1,8 @@
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
-# Getting started with High Performance Computing: FAIR training for environmental scientists
+# Metagenomics
 
-[Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI Innovation Scholars award. It aims to train researchers to effectively generate and analyse environemntal 'omics data using Cloud computing resources.
-
-This "Getting started with High Performance Computing: FAIR training for environmental scientists" course is additionally funded by a NERC Advanced Training: Short Courses award.
-
-This hands-on, online course teaches data analysis for metagenomics projects. It is aimed at environmental scientists with little or no experience of using high performance computing (HPC) for data analysis. In the course we will cover:
+This hands-on, online course teaches data analysis for metagenomics projects. It is aimed at those with little or no experience of using high performance computing (HPC) for data analysis. In the course we will cover:
 - navigating file directories and using the command line
 - logging into a remote cloud instance
 - using common commands and running analysis programs in the command line
