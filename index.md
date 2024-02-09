@@ -38,7 +38,7 @@ The course will take place over three weeks and will combine live coding and tea
 | Lesson                     | Overview |
 | -------------------------- | ---------|
 | [Files and Directories](https://cloud-span.github.io/nerc-metagenomics01-file-directories/) |Learn about files and directories, log onto a cloud instance and get a basic introduction to the shell.|
-| [Using the Command Line](https://cloud-span.github.io/nerc-metagenomics02-command-line/)  |Learn more about using the shell to navigate directories, manipulate and search files and use basic loops to iterate commands.|
+| [Using the Command Line](https://cloud-span.github.io/nerc-metagenomics02-command-line/)  |Learn more about using the shell to navigate directories, manipulate and search files, and combine existing commands to do new things.|
 | [QC & Assembly](https://cloud-span.github.io/nerc-metagenomics03-qc-assembly/) | How to quality control and assemble a genome.|
 | [Polishing](https://cloud-span.github.io/nerc-metagenomics04-polishing/) | How to use short reads to polish your metagenome assembly |
 | [Binning & Functional Annotation](https://cloud-span.github.io/nerc-metagenomics05-binning/)| How to separate an assembly into MAGs and add functional annotation to these MAGs. |
